@@ -24,3 +24,9 @@ The `quiet-web.svg` wallpaper is original. Quiet Web OS is an independent Ubuntu
 
 See [FEATURES.md](FEATURES.md) for three local tools included for privacy-conscious browsing.
 
+
+The installer also includes three purpose-specific applications: **LibreOffice, GNOME Calendar, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **VSCodium, GNOME Builder, Wireshark**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **VSCodium, GNOME Builder, Wireshark**. See [FEATURES.md](FEATURES.md).
